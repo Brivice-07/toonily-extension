@@ -1,0 +1,15 @@
+{
+  "name": "Toonily Extension Repo",
+  "version": 1,
+  "extensions": [
+    {
+      "pkg": "toonily",
+      "name": "Toonily Custom",
+      "version": "1.0.0",
+      "lang": "en",
+      "nsfw": false,
+      "sourceUrl": "https://toonily.com",
+      "apk": ""
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Toonily Custom",
+  "version": "1.0.0",
+  "pkg": "toonily",
+  "lang": "en",
+  "baseUrl": "https://toonily.com",
+  "nsfw": false
+}
